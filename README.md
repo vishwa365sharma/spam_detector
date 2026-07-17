@@ -1,5 +1,10 @@
 Spam Mail Detector
 
+
+live demo
+click here:
+https://spamdetector365.streamlit.app/
+
 Overview
 
 AI Spam Mail Detector is a Machine Learning web application that classifies email or SMS messages as Spam or Not Spam (Normal). The application is built using Python, Streamlit, Scikit-learn, and TF-IDF Vectorizer.
