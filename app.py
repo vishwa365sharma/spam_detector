@@ -69,7 +69,7 @@ model = pickle.load(open("spam_model.pkl", "rb"))
 vectorizer = pickle.load(open("tfidf.pkl", "rb"))
 
 
-st.markdown("<h1>📩 AI Spam Mail Detector</h1>", unsafe_allow_html=True)
+st.markdown("<h1>📩 Spam Mail Detector</h1>", unsafe_allow_html=True)
 
 st.markdown(
     "<p style='text-align:center;'>Enter your message below to check whether it is Spam or Not Spam.</p>",
@@ -113,4 +113,4 @@ if st.button("🔍 Predict"):
             st.balloons()
 
 st.markdown("---")
-st.caption("© 2026 AI Spam Mail Detector | Developed by Vishwa Sharma")
+st.caption("© 2026 Spam Mail Detector | Developed by Vishwa Sharma")
