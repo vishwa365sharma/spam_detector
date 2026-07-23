@@ -11,7 +11,7 @@ AI Spam Mail Detector is a Machine Learning web application that classifies emai
 
 Features
 
-- Detects Spam and Ham messages
+- Detects Spam and Not Spam messages
 - User-friendly Streamlit interface
 - Fast and accurate predictions
 - TF-IDF text vectorization
